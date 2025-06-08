@@ -1,4 +1,10 @@
 google.com, pub-1985209144270542, DIRECT, f08c47fec0942fa0
+xandr.com, 16546, RESELLER
+advertising.com, 82632, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+taurusx.com, 80635, RESELLER
 improvedigital.com, 2371, RESELLER
 screenil.com, 554156, RESELLER
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
